@@ -1,4 +1,3 @@
-// CounterComponent.js
 import React, { Component } from 'react';
 
 class CounterComponent extends Component {
